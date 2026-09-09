@@ -283,3 +283,6 @@ This repository serves as the official landing page for Sony Vegas Pro. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Sony Vegas Pro today!**
+
+---
+**Last updated:** 2026-09-09 15:57:13 UTC
